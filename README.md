@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kortexa-ai-mcp-slop-adapter-badge.png)](https://mseep.ai/app/kortexa-ai-mcp-slop-adapter)
+
 # MCP to SLOP Adapter
 
 A lightweight adapter that connects [MCP](https://modelcontextprotocol.io/) (Model Context Protocol) clients like Claude Desktop with any [SLOP](https://github.com/agnt-gg/slop) (Simple Language Open Protocol) compatible server.
